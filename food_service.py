@@ -1,5 +1,9 @@
+# i made this one based from the previous comment i received on my code which apparently did not store the array properly huhu
+# inspired by past works :D
+
 from tkinter import *
 import speech_recognition as sr
+
 orderQueue = []
 
 # first operation

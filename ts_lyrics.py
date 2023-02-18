@@ -1,3 +1,6 @@
+# inspired by https://github.com/irenetrampoline/taylor-swift-lyrics/blob/master/scrape.py 
+# and https://www.youtube.com/watch?v=KjhqAiJNLnQ
+
 from bs4 import BeautifulSoup
 import requests
 import random
